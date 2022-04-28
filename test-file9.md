@@ -1,1 +1,1 @@
-[parseTest](test.com
+[parseTest](something.com
